@@ -3,6 +3,9 @@ public class C01_Stash {
         System.out.println("github 1.  master deneme");
         System.out.println("github 2.  master deneme ");
         System.out.println("github  1. ahmet  deneme");
+        System.out.println("github 3. master deneme");
+
+
 
 
 
